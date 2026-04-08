@@ -1,3 +1,3 @@
 function buy() {
-  alert("تمت إضافة المنتج إلى السلة 🛒");
+  alert("I WANT TO TAKE IT🛒");
 }
